@@ -29,3 +29,27 @@ paperclip, a small cluster computer, and an underground 'pirate' server for
 students to exchange info inside the school without anyone knowing. In these
 later periods, I developed a few of my first purposes in life.   
 
+I have always been interested in networks, languages, and communication. These
+interests frequently flow into the domain of computer networks, as that is
+what I perform best at. In the later years of high school, I started a number
+of small projects that slowly grew into larger ones. I remember making a chat
+client for desktop computers that could be deployed in networks that had no
+internet access. I guess that kind of embodies my goals. I want a good
+percentage of people to know how to be independent. The technological world
+that we live in today relies on a very small number of metaphorical pillars to
+stand. If these pillars were ever to be removed, infrastructure as we know it
+will fall. An everyday person does not know these pillars exist, but stands
+atop them anyway as it is the easiest thing to do. There are methods which let
+someone stand off to the side, away from the dangerous perch atop the
+infrastructure, but they are all complex; unreachable by liberal arts majors
+or jocks.
+
+I dream to bring these world broadening distributed technologies down to the
+level where any guy on the street can reach them. If even one or two peer to
+peer, decentralized, secure methods of communication became mainstream, it
+would have an amazing effect on the world. We have the tools to end
+censorship, dystopia, and infrastructure collapse. We just need to tell the
+world that it exists. 
+
+
+ 
